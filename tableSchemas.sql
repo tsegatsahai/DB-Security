@@ -27,13 +27,6 @@ create table tblMarkingHierarchy
 );
 
 
-/*
-create table tblUniqueLabel
-(
-	ID	int PRIMARY KEY
-);
-*/
-
 create table tblUniqueLabelMarking
 (
 	LabelID			int ,
